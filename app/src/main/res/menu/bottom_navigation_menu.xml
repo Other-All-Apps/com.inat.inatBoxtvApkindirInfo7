@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/video1"
+        android:title="Video Player"
+        android:icon="@drawable/inatboxtvapkindir7_ic_baseline_video_library_24"
+        />
+    <item android:id="@+id/video2"
+        android:title="Play List"
+        android:icon="@drawable/inatboxtvapkindir7_ic_baseline_playlist_play_24"
+        />
+    <item android:id="@+id/video3"
+        android:title="Channels"
+        android:icon="@drawable/inatboxtvapkindir7_ic_baseline_ondemand_video_24"
+        />
+
+
+
+</menu>

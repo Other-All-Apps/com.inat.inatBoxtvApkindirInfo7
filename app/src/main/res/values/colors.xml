@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#0A0A0A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="adbg">#FFFFFF</color>
+    <color name="adtxt">#000000</color>
+
+    <color name="Button_Text_Color">#FFFFFF</color>
+    <color name="Exit_Text">#000000</color>
+    <color name="Text_Color">#000000</color>
+    <color name="Card">#000000</color>
+    <color name="Card_Text">#FFFFFF</color>
+    <color name="Card_Btn">#FFFFFF</color>
+    <color name="Card_Btn_text">#000000</color>
+
+
+</resources>

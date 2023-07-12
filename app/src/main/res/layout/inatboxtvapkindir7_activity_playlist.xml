@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:weightSum="3"
+    android:background="@drawable/inatboxtvapkindir7_bg"
+    tools:context="com.inatboxtvapkindirinfo.inat.fragments.inatboxtvapkindir7_Video_2">
+    <FrameLayout
+        android:id="@+id/fl_adplaceholder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/inatboxtvapkindir7_bannerrr"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+    </FrameLayout>
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_weight="3"
+
+      >
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:layout_marginTop="10dp"
+          android:layout_gravity="center"
+          >
+
+          <TextView
+              android:id="@+id/play1"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_margin="16dp"
+              android:layout_marginLeft="10dp"
+              android:layout_marginTop="20dp"
+              android:layout_marginRight="10dp"
+              android:background="@drawable/inatboxtvapkindir7_group"
+              android:gravity="center"
+              android:text="Demo 1"
+              android:textColor="@color/Button_Text_Color"
+              android:textSize="17dp"
+              android:textStyle="bold" />
+
+          <TextView
+              android:background="@drawable/inatboxtvapkindir7_group"
+              android:textSize="17dp"
+              android:gravity="center"
+              android:layout_width="wrap_content"
+              android:id="@+id/play2"
+             
+              android:textStyle="bold"
+              android:layout_margin="16dp"
+              android:layout_height="wrap_content"
+              android:textColor="@color/Button_Text_Color"
+              android:text="Demo 2"
+              android:layout_marginLeft="10dp"
+              android:layout_marginRight="10dp"/>
+
+          <TextView
+              android:background="@drawable/inatboxtvapkindir7_group"
+              android:textSize="17dp"
+              android:gravity="center"
+              android:layout_width="wrap_content"
+              android:id="@+id/play3"
+             
+              android:textStyle="bold"
+              android:layout_margin="16dp"
+              android:layout_height="wrap_content"
+              android:textColor="@color/Button_Text_Color"
+              android:text="Demo 3"
+              android:layout_marginLeft="10dp"
+              android:layout_marginRight="10dp"/>
+
+          <TextView
+              android:background="@drawable/inatboxtvapkindir7_group"
+              android:textSize="17dp"
+              android:gravity="center"
+              android:layout_width="wrap_content"
+              android:id="@+id/play4"
+             
+              android:textStyle="bold"
+              android:layout_margin="16dp"
+              android:layout_height="wrap_content"
+              android:textColor="@color/Button_Text_Color"
+              android:text="Demo 4"
+              android:layout_marginLeft="10dp"
+              android:layout_marginRight="10dp"/>
+
+          <TextView
+              android:background="@drawable/inatboxtvapkindir7_group"
+              android:textSize="17dp"
+              android:gravity="center"
+              android:layout_width="wrap_content"
+              android:id="@+id/play5"
+             
+              android:textStyle="bold"
+              android:layout_margin="16dp"
+              android:layout_height="wrap_content"
+              android:textColor="@color/Button_Text_Color"
+              android:text="Demo 5"
+              android:layout_marginLeft="10dp"
+              android:layout_marginRight="10dp"/>
+      </LinearLayout>
+  </ScrollView>
+    <FrameLayout
+        android:id="@+id/fl_b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/inatboxtvapkindir7_qb2"
+        android:gravity="bottom"
+        android:visibility="visible">
+    </FrameLayout>
+
+
+
+</LinearLayout>

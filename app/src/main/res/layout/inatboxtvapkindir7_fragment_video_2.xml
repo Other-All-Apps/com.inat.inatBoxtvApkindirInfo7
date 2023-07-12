@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/inatboxtvapkindir7_bg"
+    tools:context="com.inatboxtvapkindirinfo.inat.fragments.inatboxtvapkindir7_Video_2">
+
+     <ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:orientation="vertical"
+             android:layout_marginTop="15dp"
+             android:gravity="center"
+             >
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:id="@+id/play1"
+
+                 android:textStyle="bold"
+                 android:layout_margin="17dp"
+                 android:background="@drawable/inatboxtvapkindir7_group"
+                 android:layout_height="wrap_content"
+                 android:textColor="@color/Button_Text_Color"
+                 android:text="Demo 1"
+                 android:gravity="center"
+                 android:layout_marginLeft="10dp"
+                 android:layout_marginRight="10dp"/>
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:id="@+id/play2"
+                 android:background="@drawable/inatboxtvapkindir7_group"
+                 android:textStyle="bold"
+                 android:layout_margin="17dp"
+                 android:layout_height="wrap_content"
+                 android:textColor="@color/Button_Text_Color"
+                 android:text="Demo 2"
+                 android:gravity="center"
+                 android:layout_marginLeft="10dp"
+                 android:layout_marginRight="10dp"/>
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:id="@+id/play3"
+                 android:background="@drawable/inatboxtvapkindir7_group"
+                 android:textStyle="bold"
+                 android:layout_margin="17dp"
+                 android:layout_height="wrap_content"
+                 android:textColor="@color/Button_Text_Color"
+                 android:text="Demo 3"
+                 android:gravity="center"
+                 android:layout_marginLeft="10dp"
+                 android:layout_marginRight="10dp"/>
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:id="@+id/play4"
+                 android:background="@drawable/inatboxtvapkindir7_group"
+                 android:textStyle="bold"
+                 android:layout_margin="17dp"
+                 android:layout_height="wrap_content"
+                 android:textColor="@color/Button_Text_Color"
+                 android:text="Demo 4"
+                 android:gravity="center"
+                 android:layout_marginLeft="10dp"
+                 android:layout_marginRight="10dp"/>
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:id="@+id/play5"
+                 android:background="@drawable/inatboxtvapkindir7_group"
+                 android:gravity="center"
+                 android:textStyle="bold"
+                 android:layout_margin="17dp"
+                 android:layout_height="wrap_content"
+                 android:textColor="@color/Button_Text_Color"
+                 android:text="Demo 5"
+                 android:layout_marginLeft="10dp"
+                 android:layout_marginRight="10dp"/>
+         </LinearLayout>
+     </ScrollView>
+
+
+
+
+</LinearLayout>
