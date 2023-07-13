@@ -5,13 +5,13 @@
     <string name="action_1">Watch Now</string>
     <!-- TODO: Remove or change this placeholder text -->
 
-    <string name="fbfull">289358560261765_289358720261749</string>
-    <string name="fbfull1">289358560261765_289358976928390</string>
+    <string name="fbfull">596778535934133_596778802600773</string>
+    <string name="fbfull1">596778535934133_596778855934101</string>
 
-    <string name="fbnative">289358560261765_289358760261745</string>
-    <string name="fbnative1">289358560261765_289359040261717</string>
+    <string name="fbnative">596778535934133_596778902600763</string>
+    <string name="fbnative1">596778535934133_596778929267427</string>
 
-    <string name="fbbanner">289358560261765_289358696928418</string>
-    <string name="fbbanner1">289358560261765_289358940261727    </string>
+    <string name="fbbanner">596778535934133_596778702600783</string>
+    <string name="fbbanner1">596778535934133_596778745934112</string>
 
 </resources>
